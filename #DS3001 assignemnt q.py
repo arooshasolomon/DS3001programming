@@ -1,5 +1,15 @@
 #DS3001 assignemnt q 
 
+After searching on the Occupational Outlook Handbook, I am interested in epididiomology however it doesn't pay as much as I'd hope, 
+I do enjoy Data Scientist and BME, I do like Computer and information research scientists. To my suprise 
+consultants were not on there, even though I feel like alot of inidividuals get those jobs post grad
+
+
+
+
+
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 
